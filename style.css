@@ -1,0 +1,56 @@
+html, body {
+    margin: 0;
+}
+
+.header {
+    background-color: #202020;
+    /* width: 100%;
+    height: 600px; */
+    margin-bottom: 0px;
+}
+
+.side-nav {
+    background-color: #202020;
+    width: fit-content;
+    margin-top: 0px;
+    /* padding: 5px; */
+}
+
+.s-nav-item {
+    margin-bottom: 15px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.hidden-title {
+    display: none;
+}
+
+.logo-container {
+    float: left;
+    width: 30%;
+}
+
+.logo-container h3 {
+    margin-top: 0;    
+    margin-bottom: 0;
+}
+
+.heading {
+    float: left;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 100px;
+}
+.light-text {
+    color: lightcyan;
+}
+
+.arial-font {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.clear-fix {
+    clear: left;
+}
+
